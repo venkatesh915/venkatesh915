@@ -66,7 +66,7 @@
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🎮 **AI Rock Paper Scissors** | Real-time hand gesture based game using webcam and AI | Python, OpenCV, MediaPipe | [View Project](https://github.com/venkatesh915/AI-Rock-Paper-Scissors) |
-| 🖐️ **Real-Time Face Detection System** | Detects faces in real-time using webcam and computer vision | Python, OpenCV, MediaPipe | (add your repo link) |
+| 🖐️ **Real-Time Face Recognition Attendance System** | Detects faces in real-time and marks attendance automatically | Python, OpenCV, Face Recognition | [View Project](https://github.com/venkatesh915/Real-Time-AI-Face-Recognition-Attendance-System) |
 | 📊 **ToyCraft Tales** | Data visualization project analyzing toy manufacturer insights | Tableau, Data Analytics | [View Project](https://github.com/venkatesh915/ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data) |
 | 🐔 **Poultry Disease Classification** | Transfer learning model for poultry disease detection | Python, CNN, Deep Learning | [View Project](https://github.com/venkatesh915/Transfer-learning-based-classification-of-poultry-diseases-for-enhanced-health-management) |
 | 🏥 **MedTrack** | Healthcare system for patient data management | React, Node.js, Database | [View Project](https://github.com/venkatesh915/MedTrack-) |
