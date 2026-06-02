@@ -109,4 +109,4 @@ const venkatesh = {
 
     funFact: "I turn ideas into real-world solutions 💻🚀"
 
-};(when ever i click a link ,it need to open in new page or window ,like linkedin ,project check..etc
+};
